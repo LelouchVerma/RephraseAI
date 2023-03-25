@@ -1,0 +1,15 @@
+{
+  "name": "rephrase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.8",
+    "pdf-parse": "^1.1.1"
+  }
+}
